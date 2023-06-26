@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matan Weisberg
-- 🌱 I’m currently a 2nd year Software Engineering student at Ort Braude.
+- 🌱 I’m currently a 4nd year Software Engineering student at Ort Braude.
 - 💞️ I’m looking for a student position
 - 📫 matan034@gmail.com 
 
